@@ -1,0 +1,26 @@
+Processing script file: "C:\Users\EXURO01\PortableAppsDev\WinMergeJPPortable\Other\Source\PortableApps.comInstaller.nsi" (UTF8)
+
+Processed 1 file, writing output (x86-unicode):
+warning 6000: unknown variable/constant "\e
+
+" detected, ignoring (LangString welcome:1081)
+
+Output: "C:\Users\EXURO01\PortableAppsDev\WinMergeJPPortable_2.16.6Plus-jp-2-beta7-uroesch.paf.exe"
+Install: 4 pages (256 bytes), 1 section (16408 bytes), 2774 instructions (77672 bytes), 22838 strings (304502 bytes), 70 language tables (22820 bytes).
+Datablock optimizer saved 7264 KiB (~17.5%).
+
+Using lzma (compress whole) compression.
+
+EXE header size:              150528 / 38400 bytes
+Install code:                          (422146 bytes)
+Install data:                          (34875740 bytes)
+Compressed data:      72001029 / 260840372 bytes
+CRC (0x47E225DB):                  4 / 4 bytes
+
+Total size:                 72151561 / 260878776 bytes (27.6%)
+
+1 warning:
+  6000: unknown variable/constant "\e
+
+" detected, ignoring (LangString welcome:1081)
+1)
