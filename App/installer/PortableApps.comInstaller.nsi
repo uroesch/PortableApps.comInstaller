@@ -28,8 +28,8 @@
 Unicode true 
 ManifestDPIAware true
 
-!define PORTABLEAPPSINSTALLERVERSION "3.5.16.0"
-!define PORTABLEAPPS.COMFORMATVERSION "3.5.16"
+!define PORTABLEAPPSINSTALLERVERSION "3.5.18.0"
+!define PORTABLEAPPS.COMFORMATVERSION "3.5.18"
 
 !if ${__FILE__} == "PortableApps.comInstallerPlugin.nsi"
 	!include PortableApps.comInstallerPluginConfig.nsh
@@ -1058,6 +1058,7 @@ Function ShowFinish
 			SetCtlColors $mui.Finishpage.Run 0x000000 0x888888
 		${EndIf}
 	!endif
+	SetOutPath $INSTDIR
 FunctionEnd
 
 Function GetDrivesCallBack

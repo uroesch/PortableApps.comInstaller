@@ -1,23 +1,23 @@
-Processing script file: "Z:\home\urs\PortableApps\JoplinPortable\Other\Source\PortableApps.comInstaller.nsi" (UTF8)
+Processing script file: "Z:\home\urs\PortableApps\KeyStoreExplorerPortable\Other\Source\PortableApps.comInstaller.nsi" (UTF8)
 
 Processed 1 file, writing output (x86-unicode):
 warning 6000: unknown variable/constant "\e
 
 " detected, ignoring (LangString welcome:1081)
 
-Output: "Z:\home\urs\PortableApps\JoplinPortable_1.0.201-beta7-uroesch.paf.exe"
-Install: 4 pages (256 bytes), 1 section (16408 bytes), 2285 instructions (63980 bytes), 21426 strings (292044 bytes), 70 language tables (22820 bytes).
-Datablock optimizer saved 623648 bytes (~0.4%).
+Output: "Z:\home\urs\PortableApps\KeyStoreExplorerPortable_5.4.4-beta2-uroesch.paf.exe"
+Install: 4 pages (256 bytes), 1 section (16408 bytes), 2270 instructions (63560 bytes), 21666 strings (301816 bytes), 70 language tables (22820 bytes).
+Datablock optimizer saved 623648 bytes (~3.8%).
 
 Using lzma (compress whole) compression.
 
 EXE header size:              150528 / 38400 bytes
-Install code:                          (395996 bytes)
-Install data:                          (127857614 bytes)
-Compressed data:           128509555 / 128253610 bytes
-CRC (0x470359F9):                  4 / 4 bytes
+Install code:                          (405348 bytes)
+Install data:                          (15510052 bytes)
+Compressed data:            11923136 / 15915400 bytes
+CRC (0x46262B78):                  4 / 4 bytes
 
-Total size:                128660087 / 128292014 bytes (100.2%)
+Total size:                 12073668 / 15953804 bytes (75.6%)
 
 1 warning:
   6000: unknown variable/constant "\e
