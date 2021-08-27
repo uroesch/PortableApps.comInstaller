@@ -1,4 +1,4 @@
-# Header, Ulah diropéa
+ï»¿# Header, Ulah diropÃ©a
 NLF v6
 # mimitian ti dieu
 # ID Sundanese
@@ -26,7 +26,7 @@ Miceun $(^Name)
 # ^InstallingSubCaption
 : Masangkeun
 # ^CompletedSubCaption
-: Réngsé
+: RÃ©ngsÃ©
 # ^UnComponentsSubCaption
 : Pilihan Miceun
 # ^UnDirSubCaption
@@ -36,9 +36,9 @@ Miceun $(^Name)
 # ^UninstallingSubCaption
 : Miceun instalasi
 # ^UnCompletedSubCaption
-: Réngsé
+: RÃ©ngsÃ©
 # ^BackBtn
-< Sam&éméhna
+< Sam&Ã©mÃ©hna
 # ^NextBtn
 Tulu&ykeun >
 # ^AgreeBtn
@@ -68,45 +68,45 @@ Klik Piceun pikeun ngamimitian miceun $(^Name).
 # ^Name
 Ngaran
 # ^Completed
-Réngsé
+RÃ©ngsÃ©
 # ^LicenseText
-Imeutan ieu kasapukan saméméh masangkeun $(^NameDA). Lamun anjeun narima sakabéh anu dipedar dina kasapukan, klik Sapuk.
+Imeutan ieu kasapukan samÃ©mÃ©h masangkeun $(^NameDA). Lamun anjeun narima sakabÃ©h anu dipedar dina kasapukan, klik Sapuk.
 # ^LicenseTextCB
-Imeutan ieu kasapukan saméméh masangkeun $(^NameDA). Lamun anjeun narima sakabéh anu dipedar dina kasapukan, béré contréng. $_CLICK
+Imeutan ieu kasapukan samÃ©mÃ©h masangkeun $(^NameDA). Lamun anjeun narima sakabÃ©h anu dipedar dina kasapukan, bÃ©rÃ© contrÃ©ng. $_CLICK
 # ^LicenseTextRB
-Imeutan ieu kasapukan saméméh masangkeun $(^NameDA). Lamun anjeun narima sakabéh anu dipedar dina kasapukan, pilih salah sahiji anu aya di handap. $_CLICK
+Imeutan ieu kasapukan samÃ©mÃ©h masangkeun $(^NameDA). Lamun anjeun narima sakabÃ©h anu dipedar dina kasapukan, pilih salah sahiji anu aya di handap. $_CLICK
 # ^UnLicenseText
-Imeutan ieu kasapukan saméméh miceun $(^NameDA). Lamun anjeun narima sakabéh anu dipedar dina kasapukan, klik Sapuk.
+Imeutan ieu kasapukan samÃ©mÃ©h miceun $(^NameDA). Lamun anjeun narima sakabÃ©h anu dipedar dina kasapukan, klik Sapuk.
 # ^UnLicenseTextCB
-Imeutan ieu kasapukan saméméh miceun $(^NameDA). Lamun anjeun narima sakabéh anu dipedar dina kasapukan, béré contréng. $_CLICK
+Imeutan ieu kasapukan samÃ©mÃ©h miceun $(^NameDA). Lamun anjeun narima sakabÃ©h anu dipedar dina kasapukan, bÃ©rÃ© contrÃ©ng. $_CLICK
 # ^UnLicenseTextRB
-Imeutan ieu kasapukan saméméh miceun $(^NameDA). Lamun anjeun narima sakabéh anu dipedar dina kasapukan, pilih salah sahiji anu aya di handap. $_CLICK
+Imeutan ieu kasapukan samÃ©mÃ©h miceun $(^NameDA). Lamun anjeun narima sakabÃ©h anu dipedar dina kasapukan, pilih salah sahiji anu aya di handap. $_CLICK
 # ^Custom
 Reka
 # ^ComponentsText
-Contréng dina komponén anu rék dipasang atawa piceun contréngna lamun teu pati perlu. $_CLICK
+ContrÃ©ng dina komponÃ©n anu rÃ©k dipasang atawa piceun contrÃ©ngna lamun teu pati perlu. $_CLICK
 # ^ComponentsSubText1
 Pilih tipeu instalasi:
 # ^ComponentsSubText2_NoInstTypes
-Pilih komponén-komponén anu bakal dipasang:
+Pilih komponÃ©n-komponÃ©n anu bakal dipasang:
 # ^ComponentsSubText2
-Atawa, pilih ieu komponén anu bakal dipasang:
+Atawa, pilih ieu komponÃ©n anu bakal dipasang:
 # ^UnComponentsText
-Contréng dina komponén anu rék dipiceun. $_CLICK
+ContrÃ©ng dina komponÃ©n anu rÃ©k dipiceun. $_CLICK
 # ^UnComponentsSubText1
 Pilih tipeu miceun:
 # ^UnComponentsSubText2_NoInstTypes
-Pilih komponén-komponén anu rék dipiceun:
+Pilih komponÃ©n-komponÃ©n anu rÃ©k dipiceun:
 # ^UnComponentsSubText2
-Atawa, pilih ieu komponén anu rék dipiceun:
+Atawa, pilih ieu komponÃ©n anu rÃ©k dipiceun:
 # ^DirText
-$(^NameDA) bakal dipasang dina ieu map. Pikeun milih map séjén, klik Pilih tuluy tangtukeun map nu dipikahayang ku ajeun. $_CLICK
+$(^NameDA) bakal dipasang dina ieu map. Pikeun milih map sÃ©jÃ©n, klik Pilih tuluy tangtukeun map nu dipikahayang ku ajeun. $_CLICK
 # ^DirSubText
 Map anu dituju
 # ^DirBrowseText
 Pilih map pikeun tempat masangkeun $(^NameDA):
 # ^UnDirText
-$(^NameDA) bakal dipiceun tina ieu map. Pikeun milih map séjén, klik Pilih tuluy tangtukeun map nu dipikahayang ku ajeun. $_CLICK
+$(^NameDA) bakal dipiceun tina ieu map. Pikeun milih map sÃ©jÃ©n, klik Pilih tuluy tangtukeun map nu dipikahayang ku ajeun. $_CLICK
 # ^UnDirSubText
 ""
 # ^UnDirBrowseText
@@ -120,13 +120,13 @@ $(^NameDA) bakal dipiceun tina ieu map. $_CLICK
 # ^UninstallingSubText
 Miceun instalasi:
 # ^FileError
-Henteu bisa nulis koropak: \r\n\t"$0"\r\nKlik abort pikeun ngabolaykeun instalasi,\r\nretry pikeun nyoba deui, atawa\r\nignore lamun moal dipaliré.
+Henteu bisa nulis koropak: \r\n\t"$0"\r\nKlik abort pikeun ngabolaykeun instalasi,\r\nretry pikeun nyoba deui, atawa\r\nignore lamun moal dipalirÃ©.
 # ^FileError_NoIgnore
 Henteu bisa nulis koropak: \r\n\t"$0"\r\nKlik retry pikeun nyobaan deui, atawa\r\ncancel pikeun ngabolaykeun instalasi
 # ^CantWrite
 "Henteu bisa nulis dina: "
 # ^CopyFailed
-Prosés niron gagal
+ProsÃ©s niron gagal
 # ^CopyTo
 "Ditiron kana "
 # ^Registering
@@ -152,7 +152,7 @@ Prosés niron gagal
 # ^ErrorCreating
 "Kasalahan dina nyieun: "
 # ^ErrorDecompressing
-Kasalahan nalika muka gémbolan data! Aplikasi Pamasang ruksak
+Kasalahan nalika muka gÃ©mbolan data! Aplikasi Pamasang ruksak
 # ^ErrorRegistering
 Kasalahan nalika ngadaftarkeun modul DLL
 # ^ExecShell
@@ -160,9 +160,9 @@ Kasalahan nalika ngadaftarkeun modul DLL
 # ^Exec
 "Ngajalankeun: "
 # ^Extract
-"Muka gémbolan: "
+"Muka gÃ©mbolan: "
 # ^ErrorWriting
-"Gémbolan: kasalahan nalika nulis koropak "
+"GÃ©mbolan: kasalahan nalika nulis koropak "
 # ^InvalidOpcode
 Program Pamasang: opcode henteu lengkep
 # ^NoOLE
@@ -180,7 +180,7 @@ Diliwat: "
 # ^CopyDetails
 Tiron Detil kana Clipboard
 # ^LogInstall
-Catet prosés instalasi
+Catet prosÃ©s instalasi
 # ^Byte
 B
 # ^Kilo

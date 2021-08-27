@@ -1,4 +1,4 @@
-﻿;Copyright 2007-2020 John T. Haller of PortableApps.com
+﻿;Copyright 2007-2021 John T. Haller of PortableApps.com
 ;Website: http://PortableApps.com/
 
 ;This software is OSI Certified Open Source Software.
@@ -28,8 +28,8 @@
 Unicode true 
 ManifestDPIAware true
 
-!define PORTABLEAPPSINSTALLERVERSION "3.5.18.0"
-!define PORTABLEAPPS.COMFORMATVERSION "3.5.18"
+!define PORTABLEAPPSINSTALLERVERSION "3.5.21.0"
+!define PORTABLEAPPS.COMFORMATVERSION "3.5.21"
 
 !if ${__FILE__} == "PortableApps.comInstallerPlugin.nsi"
 	!include PortableApps.comInstallerPluginConfig.nsh
@@ -79,7 +79,7 @@ VIProductVersion "${VERSION}"
 VIAddVersionKey ProductName "${PORTABLEAPPNAME}"
 VIAddVersionKey Comments "${INSTALLERCOMMENTS}"
 VIAddVersionKey CompanyName "PortableApps.com"
-VIAddVersionKey LegalCopyright "2007-2020 PortableApps.com, PortableApps.com Installer ${PORTABLEAPPSINSTALLERVERSION}"
+VIAddVersionKey LegalCopyright "2007-2021 PortableApps.com, PortableApps.com Installer ${PORTABLEAPPSINSTALLERVERSION}"
 VIAddVersionKey FileDescription "${PORTABLEAPPNAME}"
 VIAddVersionKey FileVersion "${VERSION}"
 VIAddVersionKey ProductVersion "${VERSION}"
@@ -117,7 +117,7 @@ VIAddVersionKey PortableApps.comAppID "${APPID}"
 ;=== Runtime Switches
 SetCompress Auto
 SetCompressor /SOLID lzma
-SetCompressorDictSize 32
+SetCompressorDictSize 8
 SetDatablockOptimize On
 CRCCheck on
 AutoCloseWindow True
@@ -279,12 +279,12 @@ BrandingText "PortableApps.com®"
 	${IncludeLang} SpanishInternational
 	${IncludeLang} Swahili
 	${IncludeLang} Swedish
+	${IncludeLang} Tamil
 	${IncludeLang} Thai
 	${IncludeLang} TradChinese
 	${IncludeLang} Turkish
 	${IncludeLang} Ukrainian
 	${IncludeLang} Uzbek
-	${IncludeLang} Valencia
 	${IncludeLang} Vietnamese
 	${IncludeLang} Welsh
 	${IncludeLang} Yoruba
