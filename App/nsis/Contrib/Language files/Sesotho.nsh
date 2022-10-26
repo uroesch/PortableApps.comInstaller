@@ -43,8 +43,8 @@
   ${LangFileString} MUI_UNTEXT_COMPONENTS_SUBTITLE "Khetha hore na ke litšobotsi life tsa $(^NameDA) tseo u batlang ho li ntša k’homphieutheng ea hao."
 !endif
 
-!ifdef MUICOMPONENTSPAGE | MUIUNCOMPONENTSPAGE
-  ${LangFileString} MUIINNERTEXTCOMPONENTSDESCRIPTIONTITLE “Tlhaloso“
+!ifdef MUI_COMPONENTSPAGE | MUI_UNCOMPONENTSPAGE
+  ${LangFileString} MUI_INNERTEXT_COMPONENTS_DESCRIPTION_TITLE "Tlhaloso"
   !ifndef NSIS_CONFIG_COMPONENTPAGE_ALTERNATIVE
     ${LangFileString} MUI_INNERTEXT_COMPONENTS_DESCRIPTION_INFO "Beha mause holim’a karolo e le hore u bone tlhaloso ea eona."
   !else
