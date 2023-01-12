@@ -1,0 +1,17 @@
+text    eol=crlf
+*.bin   binary
+*.bpm   binary
+*.dll   binary
+*.exe   binary
+*.gif   binary
+*.ico   binary
+*.lib   binary
+*.pat   binary
+*.png   binary
+bzip2-* binary
+bzip2_* binary
+lzma-*  binary
+lzma_*  binary
+uninst  binary
+zlib-*  binary
+zlib_*  binary
