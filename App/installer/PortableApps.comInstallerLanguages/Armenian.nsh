@@ -19,44 +19,34 @@ LangString downloadhour ${LANG_ARMENIAN} "ժամ"
 LangString downloadminute ${LANG_ARMENIAN} "րոպե"
 LangString downloadplural ${LANG_ARMENIAN} "վ"
 LangString downloadof ${LANG_ARMENIAN} "ից"
-
 LangString existingfileswarning ${LANG_ARMENIAN} "($INSTDIR) պանակը, որ ընտրել եք, ստանդարտ տեղադրման պանակ չէ այս օժանդակիչի համար: Այս պանակի մեջ կան ֆայլեր, որոնք կարող են ջնջվել: Համոզվա՞ծ եք, որ ցանկանում եք տեղադրել այս պանակում."
 
 ;New strings for the PA.c Platform Installer
 LangString platformsharedcustomlocation ${LANG_ARMENIAN} "Ընտրեք տեղը..."
 LangString platformsharednotfound ${LANG_ARMENIAN} "Չի գտնվել"
-
 LangString platforminstalltype ${LANG_ARMENIAN} "Տեղադրելու եղանակ"
 LangString platforminstalltypequestion ${LANG_ARMENIAN} "Ո՞ր եղանակն է կիրառվելու:"
 LangString platformnewinstall ${LANG_ARMENIAN} "Նոր տեղադրում"
 LangString platformnewinstalldetails ${LANG_ARMENIAN} "Կտեղադրվի PortableApps.com Platform-ի նոր օրինակը համակարգչում, ամպային հիշասարքում կամ դյուրակիր սարքում"
 LangString platformupgradeinstall ${LANG_ARMENIAN} "Առկա տեղադրման արդիացում"
 LangString platformupgradeinstalldetails ${LANG_ARMENIAN} "Կարդիացնի PortableApps.com Platform-ի արդեն տեղադրված օրինակը:"
-
 LangString platforminstalllocation ${LANG_ARMENIAN} "Տեղադրման տեղը"
 LangString platforminstalllocationquestion ${LANG_ARMENIAN} "Որտեղ եք ցանակնում տեղադրել:"
 LangString platforminstalllocationcloud ${LANG_ARMENIAN} "Ամպում՝ տեղադրել ամպային համաժամեցված թպանակում (Dropbox, Google Drive և այլն)"
 LangString platforminstalllocationportable ${LANG_ARMENIAN} "Դյուրակիր՝ տեղադրել դյուրակիր սարքում"
 LangString platforminstalllocationlocal ${LANG_ARMENIAN} "Տեղային՝ տեղադրել ընթացիկ օգտվողի համար՝ անձնական ծրագրերով և կարգավորումներով"
 LangString platforminstalllocationlocalall ${LANG_ARMENIAN} "Տեղային՝ բոլոր օգտվողների համար - տեղադրել բոլոր օգտվողների համար՝ համօգտագործված ծրագրերով և կարգավորումներով"
-
 LangString platforminstallcloud ${LANG_ARMENIAN} "Տեղադրել ամպում"
 LangString platforminstallcloudquestion ${LANG_ARMENIAN} "Նշեք, թե որտեղ եք ցանկանում տեղադրել:"
-
 LangString platformupgrade ${LANG_ARMENIAN} "Հարթակի արդիացում"
 LangString platformupgradequestion ${LANG_ARMENIAN} "Նշեք, թե հարթակի որ տեղադրումն եք ցանկանում արդիացնել:"
-
 LangString platforminstallportable ${LANG_ARMENIAN} "Դյուրակիր տեղադրում"
 LangString platforminstallportablequestion ${LANG_ARMENIAN} "Ո՞ր դյուրակիր սարքում եք ցանկանում տեղադրել:"
-
 LangString platforminstalllocal ${LANG_ARMENIAN} "Տեղային տեղադրում"
 LangString platforminstalllocalquestion ${LANG_ARMENIAN} "Որտե՞ղ եք ցանկանում տեղադրել:"
-
 LangString platformconfirminstall ${LANG_ARMENIAN} "Տեղադրման հաստատում"
 LangString platformconfirminstallsubhead ${LANG_ARMENIAN} "Հաստատեք տեղադրման պայմանները"
 LangString platformconfirmintro ${LANG_ARMENIAN} "Պատրաստվում եք տեղադրել այստեղ՝"
 LangString platformconfirmoutro ${LANG_ARMENIAN} "Սեղմեք Տեղադրել՝ տեղադրումը սկսելու համար:"
-
 LangString platformstartwithwindows ${LANG_ARMENIAN} "Ինքնաշխատ մեկնարկել հարթակը Windows-ի հետ միաժամանակ"
-
 LangString platforminstallerlang ${LANG_ARMENIAN} "Armenian"
